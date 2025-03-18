@@ -3,6 +3,8 @@
 ubuntu 22.04 : ros2 humble
 
 
+2025 HPC winter project
+
 HPClab lio_sam nav2 : tracer
 
 jetson AGX xavier 
